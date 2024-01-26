@@ -1,3 +1,3 @@
 export default function Home() {
-  return <p>fullName</p>;
+  return <p>I am working on my side project but its not that side.</p>;
 }
